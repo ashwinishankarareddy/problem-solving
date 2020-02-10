@@ -19,7 +19,7 @@ The first line of input consists of number of test cases, T.
 
 The second line of each test case consists of a string representing the type of each individual person in the city.
 
-Constraints
+**Constraints**   
 1<= T <=10
 
 1<= |string| <=100000
@@ -29,18 +29,18 @@ For each test case, print the required output in a separate line.
 
 ### Sample TestCase 1
 #### Input
-2
-gqtrawq
-fnaxtyyzz
+2  
+gqtrawq  
+fnaxtyyzz  
 
 #### Output
-q
-z
+q  
+z  
 
-Explanation
-Test Case 1: There are 2 q types of people rest all are present alone.
+#### Explanation  
+**Test Case 1:** There are 2 q types of people rest all are present alone.
 
-Test Case 2: There are 2 y and 2 z types of people. Since the maximum value is same, the type with higher Ascii value is considered as output. Therfore, z is the correct type.
+**Test Case 2:** There are 2 y and 2 z types of people. Since the maximum value is same, the type with higher Ascii value is considered as output. Therfore, z is the correct type.
 
 
 
